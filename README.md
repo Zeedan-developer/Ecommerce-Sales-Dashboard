@@ -90,12 +90,11 @@ Madhav-Ecommerce-Sales-Dashboard/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Zeedan Shaikh**
 
 B.Tech Data Science Student | Aspiring Data Analyst
 
-- GitHub: [Your GitHub Profile](https://github.com/)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/zeedan-shaikh-606319368)
 
 ## ⭐ Feedback
 
