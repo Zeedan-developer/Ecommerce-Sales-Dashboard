@@ -6,7 +6,7 @@ This project transforms raw ecommerce data into meaningful visual insights to su
 
 ## 📸 Dashboard Preview
 
-![Madhav Ecommerce Sales Dashboard](images/dashboard.png)
+![Madhav Ecommerce Sales Dashboard](https://github.com/Zeedan-developer/Ecommerce-Sales-Dashboard/blob/main/Image.png)
 
 ## 🎯 Project Objectives
 
